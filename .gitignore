@@ -1,0 +1,7 @@
+*.svn*
+*.exe
+*.o
+*.obj
+*.pdb
+*.vs*
+*.vcxproj.filters

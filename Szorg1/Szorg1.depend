@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473692080 source:c:\bme\prog1\szorg1\main.c
+	<stdio.h>
+	<math.h>
+
